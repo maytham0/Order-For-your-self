@@ -1,0 +1,11 @@
+C:\Users\mathm\source\repos\ResturantOrder\bin\Debug\ResturantOrder.exe.config
+C:\Users\mathm\source\repos\ResturantOrder\bin\Debug\ResturantOrder.exe
+C:\Users\mathm\source\repos\ResturantOrder\bin\Debug\ResturantOrder.pdb
+C:\Users\mathm\source\repos\ResturantOrder\obj\Debug\ResturantOrder.csproj.AssemblyReference.cache
+C:\Users\mathm\source\repos\ResturantOrder\obj\Debug\ResturantOrder.Menue.resources
+C:\Users\mathm\source\repos\ResturantOrder\obj\Debug\ResturantOrder.Properties.Resources.resources
+C:\Users\mathm\source\repos\ResturantOrder\obj\Debug\ResturantOrder.csproj.GenerateResource.cache
+C:\Users\mathm\source\repos\ResturantOrder\obj\Debug\ResturantOrder.csproj.CoreCompileInputs.cache
+C:\Users\mathm\source\repos\ResturantOrder\obj\Debug\ResturantOrder.exe
+C:\Users\mathm\source\repos\ResturantOrder\obj\Debug\ResturantOrder.pdb
+C:\Users\mathm\source\repos\ResturantOrder\obj\Debug\ResturantOrder.PizzaForm.resources
